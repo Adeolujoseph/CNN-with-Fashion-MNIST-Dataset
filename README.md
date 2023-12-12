@@ -37,4 +37,4 @@ Accuracy used as evaluation metric
 Validation loss rises after 7th epoch indicating its better to have stopped earlier though accuracy is still 91.04% at 10th epoch which is not really  bad
 
 ## Further Evaluation
-Further Evaluation was done using K-fold algorithm to observe model performance on entire dataset for the sake of generalization. Avarage Accuracy across of folds lies at over 90% which is close to training the entire dataset at once. 
+Further Evaluation was done using K-fold algorithm of k=7 to observe model performance on entire dataset for the sake of generalization. Avarage Accuracy across of folds lies at over 91.64% 
