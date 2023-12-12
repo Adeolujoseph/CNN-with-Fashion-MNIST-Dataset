@@ -18,12 +18,19 @@ Pixel Values was scaled to values between 0 and 1 and then standardization done 
 
 ## Training
 2 convolutional layers- of 48 and 96 filter kernels
+
 2 Max-pooling Layers
+
 30% dropped out to prevent Over fitting
+
 2 Fully connected Layers
+
 Adam Optimizer for back propagation
+
 Cross Entropy loss as loss function
+
 Trained over 10 Epochs
+
 Accuracy used as evaluation metric
 
 ## Limitations
